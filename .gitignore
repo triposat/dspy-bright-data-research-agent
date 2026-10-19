@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+simpleqa_verified.csv
+pool.json
+results.json
+optimized_agent.json
+gepa_logs/
+mlflow.db
+mlruns/
